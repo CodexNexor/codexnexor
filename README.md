@@ -15,6 +15,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=CodexNexor&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodexNexor&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+
+<p align="center">Built with ❤️ by CodexNexor</p>
+
 ## 📌 Featured Projects
 
 - **[UltimateUploaderBot](https://github.com/CodexNexor/UltimateUploaderBot)** — Telegram URL upload & archive extraction bot
