@@ -21,3 +21,9 @@
 - **[univerra-simulation](https://github.com/CodexNexor/univerra-simulation)** — Multi-agent simulation platform
 - **[VoltGate](https://github.com/CodexNexor/VoltGate)** — Unified AI model gateway
 
+## 📌 Featured Projects
+
+- **[UltimateUploaderBot](https://github.com/CodexNexor/UltimateUploaderBot)** — Telegram URL upload & archive extraction bot
+- **[univerra-simulation](https://github.com/CodexNexor/univerra-simulation)** — Multi-agent simulation platform
+- **[VoltGate](https://github.com/CodexNexor/VoltGate)** — Unified AI model gateway
+
