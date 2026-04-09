@@ -2,7 +2,7 @@
 **A passionate AI Developer & Engineer from India**
 
 # 💫 About Me:
-👋 Hi, I’m Dheeraj Sharma from India.<br>I build intelligent, real-time systems and automation tools that make everyday tasks simpler and smarter.<br><br>I focus on clean, scalable solutions that reduce friction and quietly do their job well.<br>Always learning. Always building.
+👋 Hi, I’m Dheeraj Sharma from India.<br>I build intelligent, real-time systems and automation tools that simplify everyday tasks.<br><br>I focus on clean, scalable solutions that reduce friction and quietly do their job well.<br>Always learning. Always building.
 
 
 ## 🌐 Socials:
