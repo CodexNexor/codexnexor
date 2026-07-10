@@ -1,10 +1,11 @@
-# Dheeraj Sharma
-
-### AI Engineer and Software Developer
+<div align="center">
+  <h1>Dheeraj Sharma</h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3600&pause=1200&color=E6EDF3&center=true&vCenter=true&width=620&lines=AI+Engineer+%C2%B7+Software+Developer;Building+reliable+AI+and+automation+systems" alt="AI Engineer and Software Developer" /></a>
+</div>
 
 I design and build AI-powered products, automation systems, and reliable web applications. I care about clear architecture, pragmatic engineering, and software that solves a real problem.
 
-[GitHub](https://github.com/CodexNexor) · [Email](mailto:sharmadheeraj7983@gmail.com) · [LinkedIn](https://linkedin.com/in/codexnexor)
+[GitHub](https://github.com/CodexNexor) · [LinkedIn](https://www.linkedin.com/in/dheeraj-sharma-248b07381/) · [X](https://x.com/xsh_dheeraj) · [Email](mailto:sharmadheeraj7983@gmail.com)
 
 ---
 
@@ -50,6 +51,12 @@ I deploy and operate applications across AWS, Google Cloud, Azure, Netlify, and 
 | Data engineering and analysis | pandas, NumPy, Matplotlib, MySQL, SQLite, MongoDB |
 | Backend and automation | Node.js, API development, workflow automation, integrations |
 | Cloud and delivery | AWS, Google Cloud, Azure, Netlify, Render, Git, GitHub Actions |
+
+## GitHub Overview
+
+<div align="center">
+  <img height="145" src="https://github-readme-stats.vercel.app/api?username=CodexNexor&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&bg_color=0D1117&text_color=C9D1D9&icon_color=E6EDF3&ring_color=E6EDF3" alt="GitHub contribution overview" />
+</div>
 
 ## Engineering Principles
 
