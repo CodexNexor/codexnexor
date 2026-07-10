@@ -1,49 +1,45 @@
-<div align="center">
-  <h1>Hi, I'm Dheeraj Sharma</h1>
-  <p><strong>AI Developer & Engineer · India</strong></p>
-  <p>I build thoughtful, reliable software powered by AI.</p>
+# Dheeraj Sharma
 
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/your-instagram"><img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-</div>
+### AI Engineer and Software Developer
 
-<br />
+I design and build AI-powered products, automation systems, and reliable web applications. I care about clear architecture, pragmatic engineering, and software that solves a real problem.
 
-## Building useful things, beautifully
+[GitHub](https://github.com/codexnexor) · [Email](mailto:your-email@example.com) · [LinkedIn](https://www.linkedin.com/in/your-linkedin)
 
-I work at the intersection of AI, automation, and product engineering. My focus is on turning complex ideas into clean, scalable experiences that people genuinely enjoy using.
+---
 
-- Designing intelligent systems and practical automation
-- Building clean, maintainable applications from idea to deployment
-- Learning continuously and shipping with intention
+## Profile
 
-## Core stack
+Based in India, I work across applied AI, backend systems, and product development. My work is driven by a simple principle: make complex technology useful, dependable, and easy to work with.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Google_Cloud-111111?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+**Areas of focus**
 
-## By the numbers
+- Applied AI and intelligent workflow automation
+- API design, backend engineering, and integrations
+- Scalable web applications and cloud deployment
+- Developer tools that improve speed and reliability
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF&ring_color=FFFFFF" alt="Dheeraj's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0D1117&title_color=FFFFFF&text_color=C9D1D9" alt="Most used languages" />
-</div>
+## Selected Work
 
-## What I value
+| Project | Description |
+| --- | --- |
+| [UltimateUploaderBot](https://github.com/codexnexor/UltimateUploaderBot) | Telegram URL uploader and archive extraction workflow. |
+| [univerra-simulation](https://github.com/codexnexor/univerra-simulation) | Multi-agent simulation platform. |
+| [VoltGate](https://github.com/codexnexor/VoltGate) | Unified AI model gateway. |
 
-> Clarity over complexity. Craft over noise. Progress over perfection.
+## Technology
 
-I believe the best technology feels simple on the other side of the screen.
+| Area | Tools |
+| --- | --- |
+| Languages | Python, JavaScript, SQL |
+| AI and data | PyTorch, TensorFlow, scikit-learn, pandas, NumPy, Matplotlib |
+| Backend | Node.js, MongoDB, MySQL, SQLite |
+| Cloud and delivery | AWS, Google Cloud, Azure, Netlify, Render, GitHub Actions |
 
-<div align="center">
-  <sub>Open to meaningful collaborations and ambitious ideas.</sub>
-</div>
+## Engineering Principles
+
+I value maintainable systems, direct communication, and thoughtful execution. The goal is not more technology; it is better outcomes.
+
+---
+
+<sub>Available for meaningful product, AI, and engineering collaborations.</sub>
