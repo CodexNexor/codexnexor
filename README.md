@@ -4,7 +4,7 @@
 
 I design and build AI-powered products, automation systems, and reliable web applications. I care about clear architecture, pragmatic engineering, and software that solves a real problem.
 
-[GitHub](https://github.com/codexnexor) · [Email](mailto:your-email@example.com) · [LinkedIn](https://www.linkedin.com/in/your-linkedin)
+[GitHub](https://github.com/CodexNexor) · [Email](mailto:sharmadheeraj7983@gmail.com) · [LinkedIn](https://linkedin.com/in/codexnexor)
 
 ---
 
@@ -23,9 +23,9 @@ Based in India, I work across applied AI, backend systems, and product developme
 
 | Project | Description |
 | --- | --- |
-| [UltimateUploaderBot](https://github.com/codexnexor/UltimateUploaderBot) | Telegram URL uploader and archive extraction workflow. |
-| [univerra-simulation](https://github.com/codexnexor/univerra-simulation) | Multi-agent simulation platform. |
-| [VoltGate](https://github.com/codexnexor/VoltGate) | Unified AI model gateway. |
+| [UltimateUploaderBot](https://github.com/CodexNexor/UltimateUploaderBot) | Telegram URL uploader and archive extraction workflow. |
+| [univerra-simulation](https://github.com/CodexNexor/univerra-simulation) | Multi-agent simulation platform. |
+| [VoltGate](https://github.com/CodexNexor/VoltGate) | Unified AI model gateway. |
 
 ## Technology
 
